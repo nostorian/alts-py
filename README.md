@@ -38,9 +38,9 @@
 <p>Kill yourself :)</p>
 
 ## Screenshots
-![gen-screenshot](https://raw.githubusercontent.com/fw-real/alts-py/main/screenshots/gen.png)
+![gen-screenshot](https://raw.githubusercontent.com/nostorian/alts-py/main/screenshots/gen.png)
 
-![gen2-screenshot](https://raw.githubusercontent.com/fw-real/alts-py/main/screenshots/gen2.png)
+![gen2-screenshot](https://raw.githubusercontent.com/nostorian/alts-py/main/screenshots/gen2.png)
 
 
 <h1>Credits</h1>
